@@ -11,5 +11,5 @@ $ git clone https://github.com/MohammedBenouisse11/my-first
 ``
 
 ``
-$ cd test
+$ cd my-first
 ``
