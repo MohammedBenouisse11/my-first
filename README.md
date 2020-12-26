@@ -1,4 +1,4 @@
-# how to use our repositerie
+# how to install in kali linux and termux
 ``
-$  pkg update && upgrade -y
+$  apt update && upgrade -y
 ``
